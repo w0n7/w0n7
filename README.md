@@ -121,4 +121,5 @@
 <br>
 
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
+<img src="https://raw.githubusercontent.com/lsb30/lsb30/output/github-contribution-grid-snake.svg" />
 

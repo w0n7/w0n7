@@ -11,7 +11,7 @@
 
 - 💻 I'm Full-Stack Developer;
 
-- 🚀 My portfolio: **[Lucas Santana](https://lucas-santana-ajgdon1uo-lsb30.vercel.app)**;
+- 🚀 My portfolio: **[Lucas Santana](https://lucas-santana-belato.vercel.app)**;
  
 - 👨‍🎓 I'm studying **Systems Analysis and Development.**;
 

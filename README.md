@@ -46,7 +46,7 @@
       <img src="https://skillicons.dev/icons?i=javascript"/>
     </a>
     <a href=''>
-     <img src="https://skillicons.dev/icons?i=typscript"/>
+     <img src="https://skillicons.dev/icons?i=typescript"/>
     </a>
     <a href=''>
       <img src="https://skillicons.dev/icons?i=cs"/>

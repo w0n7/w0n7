@@ -24,50 +24,47 @@
 
 <div align="left">
  <p>
-    <a href='https://html.com/'>
+    <a href=''>
       <img src="https://skillicons.dev/icons?i=java"/>
     </a>
-    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-      <img src="https://skillicons.dev/icons?i=css"/>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=angular"/>
     </a>
-    <a href='https://www.javascript.com/'>
-      <img src="https://skillicons.dev/icons?i=js"/>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=spring"/>
     </a>
-    <a href='https://www.typescriptlang.org/'>
-      <img src="https://skillicons.dev/icons?i=ts"/>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=kotlin"/>
     </a>
-    <a href='https://reactjs.org/'>
+    <a href=''>
       <img src="https://skillicons.dev/icons?i=react"/>
     </a>
-    <a href='https://nextjs.org/'>
-      <img src="https://skillicons.dev/icons?i=nextjs"/>
-    </a>
-    <a href='https://nodejs.org/en/'>
+    <a href=''>
       <img src="https://skillicons.dev/icons?i=nodejs"/>
     </a>
-    <a href='https://git-scm.com/'>
+    <a href='https://nodejs.org/en/'>
+      <img src="https://skillicons.dev/icons?i=javascript"/>
+    </a>
+    <a href=''>
      <img src="https://skillicons.dev/icons?i=git"/>
     </a>
-    <a href='https://styled-components.com/'>
+    <a href=''>
       <img src="https://skillicons.dev/icons?i=styledcomponents"/>
     </a>
-    <a href='https://tailwindui.com/'>
+    <a href=''>
      <img src="https://skillicons.dev/icons?i=tailwind"/>
     </a>
-    <a href='https://sass-lang.com/'>
+    <a href=''>
      <img src="https://skillicons.dev/icons?i=sass"/>
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=cs"/>
     </a>
     <a href=""> 
-      <img src="https://skillicons.dev/icons?i=angular"/>
+      <img src="https://skillicons.dev/icons?i=css"/>
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=go"/>
-    </a>
-    <a href=""> 
-      <img src="https://skillicons.dev/icons?i=kotlin"/>
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=mongodb"/>

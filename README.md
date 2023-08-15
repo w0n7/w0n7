@@ -46,31 +46,31 @@
       <img src="https://skillicons.dev/icons?i=javascript"/>
     </a>
     <a href=''>
-     <img src="https://skillicons.dev/icons?i=git"/>
+     <img src="https://skillicons.dev/icons?i=typscript"/>
     </a>
     <a href=''>
-      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
+      <img src="https://skillicons.dev/icons?i=cs"/>
     </a>
     <a href=''>
-     <img src="https://skillicons.dev/icons?i=tailwind"/>
+     <img src="https://skillicons.dev/icons?i=go"/>
     </a>
     <a href=''>
-     <img src="https://skillicons.dev/icons?i=sass"/>
+     <img src="https://skillicons.dev/icons?i=postgresql"/>
     </a>
     <a href=""> 
-      <img src="https://skillicons.dev/icons?i=cs"/>
+      <img src="https://skillicons.dev/icons?i=mysql"/>
+    </a>
+    <a href=""> 
+      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
+    </a>
+    <a href=""> 
+      <img src="https://skillicons.dev/icons?i=sass"/>
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=css"/>
     </a>
     <a href=""> 
-      <img src="https://skillicons.dev/icons?i=go"/>
-    </a>
-    <a href=""> 
-      <img src="https://skillicons.dev/icons?i=mongodb"/>
-    </a>
-    <a href=""> 
-      <img src="https://skillicons.dev/icons?i=mysql"/>
+      <img src="https://skillicons.dev/icons?i=tailwind"/>
     </a>
         
  </p>

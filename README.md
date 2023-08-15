@@ -25,7 +25,7 @@
 <div align="left">
  <p>
     <a href='https://html.com/'>
-      <img src="https://skillicons.dev/icons?i=html"/>
+      <img src="https://skillicons.dev/icons?i=java"/>
     </a>
     <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
       <img src="https://skillicons.dev/icons?i=css"/>
@@ -57,20 +57,11 @@
     <a href='https://sass-lang.com/'>
      <img src="https://skillicons.dev/icons?i=sass"/>
     </a>
-     <a href='https://mui.com/'>
-     <img src="https://skillicons.dev/icons?i=materialui"/>
-    </a>
-    <a href='https://www.figma.com/'>
-     <img src="https://skillicons.dev/icons?i=figma"/>
-    </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=cs"/>
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=angular"/>
-    </a>
-     <a href=""> 
-      <img src="https://skillicons.dev/icons?i=dotnet"/>
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=go"/>

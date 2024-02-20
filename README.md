@@ -52,9 +52,6 @@
       <img src="https://skillicons.dev/icons?i=cs"/>
     </a>
     <a href=''>
-     <img src="https://skillicons.dev/icons?i=go"/>
-    </a>
-    <a href=''>
      <img src="https://skillicons.dev/icons?i=postgresql"/>
     </a>
     <a href=""> 

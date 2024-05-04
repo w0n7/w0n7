@@ -16,7 +16,7 @@
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,react,aws,redis,postgres,docker,mongodb,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,react,aws,redis,postgres,docker,typescript,mongodb)](https://skillicons.dev)
 
 <br>
 

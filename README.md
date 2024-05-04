@@ -16,7 +16,7 @@
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,kafka,aws,redis,postgres,docker,mongodb,react,typescript)](https://skillicons.dev)
 <div align="left">
  <p>
     <a href=''>

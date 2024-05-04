@@ -16,52 +16,8 @@
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,kafka,aws,redis,postgres,docker,mongodb,react,typescript)](https://skillicons.dev)
-<div align="left">
- <p>
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=java"/>
-    </a>
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=spring"/>
-    </a>
-    <a href=''>
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=nodejs"/>
-    </a>
-     <a href=''>
-     <img src="https://skillicons.dev/icons?i=aws"/>
-    </a>
-    <a href=''>
-     <img src="https://skillicons.dev/icons?i=postgresql"/>
-    </a>
-     <a href=''>
-    </a>
-      <img src="https://skillicons.dev/icons?i=angular"/>
-    </a>
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
-  <a href=''>
-   <img src="https://skillicons.dev/icons?i=typescript"/>
-  </a>
-    <a href='https://nodejs.org/en/'>
-      <img src="https://skillicons.dev/icons?i=javascript"/>
-    </a>
-    <a href=""> 
-      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
-    </a>
-    <a href=""> 
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href=""> 
-      <img src="https://skillicons.dev/icons?i=mongodb"/>
-    </a>
-        
- </p>
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,react,kafka,aws,redis,postgres,docker,mongodb,typescript)](https://skillicons.dev)
 
-</div>
-  
 <br>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me

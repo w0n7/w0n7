@@ -44,13 +44,15 @@
       <img src="https://skillicons.dev/icons?i=mysql"/>
     </a>
      <a href=''>
-     <img src="https://skillicons.dev/icons?i=typescript"/>
     </a>
       <img src="https://skillicons.dev/icons?i=angular"/>
     </a>
     <a href=''>
       <img src="https://skillicons.dev/icons?i=react"/>
     </a>
+  <a href=''>
+   <img src="https://skillicons.dev/icons?i=typescript"/>
+  </a>
     <a href='https://nodejs.org/en/'>
       <img src="https://skillicons.dev/icons?i=javascript"/>
     </a>

@@ -1,6 +1,6 @@
 
 <img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
-<h1 align="left">System.out.Println(Hi, 🍕 I'm Lucas Belato)
+<code>System.out.Println(Hi, 🍕 I'm Lucas Belato)</code>
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LSB30&color=8586f6" alt="Profile views" /> </p>
@@ -9,7 +9,7 @@
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
 
-- 💻 I'm Full-Stack Developer;
+- 👨‍💻 I'm Full-Stack Developer;
 
 - 🚀 My portfolio: **[Lucas Santana](https://lucas-santana-belato.vercel.app)**;
  

@@ -34,9 +34,6 @@
       <img src="https://skillicons.dev/icons?i=spring"/>
     </a>
     <a href=''>
-      <img src="https://skillicons.dev/icons?i=kotlin"/>
-    </a>
-    <a href=''>
       <img src="https://skillicons.dev/icons?i=react"/>
     </a>
     <a href=''>
@@ -61,13 +58,7 @@
       <img src="https://skillicons.dev/icons?i=styledcomponents"/>
     </a>
     <a href=""> 
-      <img src="https://skillicons.dev/icons?i=sass"/>
-    </a>
-    <a href=""> 
       <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href=""> 
-      <img src="https://skillicons.dev/icons?i=tailwind"/>
     </a>
         
  </p>

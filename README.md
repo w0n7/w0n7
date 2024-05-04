@@ -1,6 +1,6 @@
 
 <img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
-<h1 align="left">Hi, 🍕 I'm Lucas Belato
+<h1 align="left">System.out.Println(Hi, 🍕 I'm Lucas Belato)
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LSB30&color=8586f6" alt="Profile views" /> </p>
@@ -40,9 +40,6 @@
     <a href=''>
      <img src="https://skillicons.dev/icons?i=postgresql"/>
     </a>
-    <a href=""> 
-      <img src="https://skillicons.dev/icons?i=mysql"/>
-    </a>
      <a href=''>
     </a>
       <img src="https://skillicons.dev/icons?i=angular"/>
@@ -61,6 +58,9 @@
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=css"/>
+    </a>
+    <a href=""> 
+      <img src="https://skillicons.dev/icons?i=mongodb"/>
     </a>
         
  </p>

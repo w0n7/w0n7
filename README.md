@@ -28,31 +28,31 @@
       <img src="https://skillicons.dev/icons?i=java"/>
     </a>
     <a href=''>
-      <img src="https://skillicons.dev/icons?i=angular"/>
-    </a>
-    <a href=''>
       <img src="https://skillicons.dev/icons?i=spring"/>
     </a>
     <a href=''>
-      <img src="https://skillicons.dev/icons?i=react"/>
-    </a>
     <a href=''>
       <img src="https://skillicons.dev/icons?i=nodejs"/>
-    </a>
-    <a href='https://nodejs.org/en/'>
-      <img src="https://skillicons.dev/icons?i=javascript"/>
     </a>
     <a href=''>
      <img src="https://skillicons.dev/icons?i=typescript"/>
     </a>
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=cs"/>
+     <a href=''>
+     <img src="https://skillicons.dev/icons?i=aws"/>
     </a>
     <a href=''>
      <img src="https://skillicons.dev/icons?i=postgresql"/>
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=mysql"/>
+    </a>
+      <img src="https://skillicons.dev/icons?i=angular"/>
+    </a>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=react"/>
+    </a>
+    <a href='https://nodejs.org/en/'>
+      <img src="https://skillicons.dev/icons?i=javascript"/>
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=styledcomponents"/>

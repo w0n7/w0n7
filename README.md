@@ -1,6 +1,8 @@
 
 <img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
-<code>System.out.Println("Welcome to my GitHub!😆")</code><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
+<code>System.out.Println("Welcome to my GitHub!😆")
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
+</code>
 
 <br>
 

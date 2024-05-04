@@ -34,9 +34,6 @@
     <a href=''>
       <img src="https://skillicons.dev/icons?i=nodejs"/>
     </a>
-    <a href=''>
-     <img src="https://skillicons.dev/icons?i=typescript"/>
-    </a>
      <a href=''>
      <img src="https://skillicons.dev/icons?i=aws"/>
     </a>
@@ -45,6 +42,9 @@
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=mysql"/>
+    </a>
+     <a href=''>
+     <img src="https://skillicons.dev/icons?i=typescript"/>
     </a>
       <img src="https://skillicons.dev/icons?i=angular"/>
     </a>

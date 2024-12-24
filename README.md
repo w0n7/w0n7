@@ -16,7 +16,7 @@
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,react,aws,mysql,redis,postgres,docker,typescript,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,spring,nodejs,react,mysql,postgres,mongodb,docker,reddis,kafka)](https://skillicons.dev)
 
 <br>
 
@@ -25,15 +25,15 @@
 <p align="left">
  
  <a href="https://www.linkedin.com/in/lucassantana30/" alt="Linkedin">
-  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
+  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/lucassantana30"/> 
  </a>
 
  <a href="mailto:devlucasbelato@gmail.com" alt="Gmail">
-  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto:evander.20116@gmail.com"/> 
+  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto:wonsevenn@gmail.com"/> 
  </a>
  
  <a href="https://lucas-santana-belato.vercel.app" alt="Portfolio">
-  <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evander.com.br/"/>
+  <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://lucas-santana-belato.vercel.app/"/>
  </a>
 
  </p>
@@ -50,5 +50,3 @@
 <br>
 
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
-![Snake animation](https://github.com/lsb30/lsb30/blob/output/github-contribution-grid-snake.svg)
-

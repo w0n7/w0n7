@@ -43,8 +43,8 @@
 ## <img src="images/gato_astronauta.gif" width="50" height="50" align="10">  &nbsp;GitHub Analytics
 
 <div align="center">
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=LSB30&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="lsb30 stats"/>
-<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSB30&layout=compact&theme=aura" alt="LSB30 stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=w0n7&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="w0n7 stats"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0n7&layout=compact&theme=aura" alt="w0n7 stats"/>
  </div>
   
 <br>

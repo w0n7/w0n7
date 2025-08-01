@@ -34,7 +34,8 @@
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w0n7/w0n7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w0n7/w0n7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/w0n7/w0n7/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xliveirx/xliveirx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/xliveirx/xliveirx/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/xliveirx/xliveirx/output/pacman-contribution-graph.svg">
 </picture>
+

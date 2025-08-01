@@ -2,13 +2,13 @@
 <img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
 <code>System.out.Println("Welcome to my GitHub!")</code>
 
-- 👨‍💻 I'm Full-Stack Developer;
+- 👨‍💻 Software Engineer;
 
 - 🚀 My portfolio: **[Lucas Santana](https://lucas-santana-belato.vercel.app)**;
  
-- 👨‍🎓 I'm studying **Systems Analysis and Development.**;
+- 🎓 Graduated in **Systems Analysis and Development.** 2025;
 
-- 📫 If you want to send a message.  **devlucasbelato@gmail.com**
+- 📫 **devlucasbelato@gmail.com**
 
 
 <br>

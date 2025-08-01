@@ -4,7 +4,7 @@
 
 - 👨‍💻 Software Engineer;
 
-- 🚀 My portfolio: **[Lucas Santana](https://lucas-santana-belato.vercel.app)**;
+- 🚀 My portfolio: **[Lucas Belato](https://lucas-santana-belato.vercel.app)**;
  
 - 🎓 Graduated in **Systems Analysis and Development.** 2025;
 
